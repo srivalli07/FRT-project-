@@ -5,7 +5,7 @@ This is a web based application developed for Fintech related telugu based websi
 ### This web based Loans purpose application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - 
+*Project Link* -  https://ashy-forest-0dcf92b00.2.azurestaticapps.net
 
 *Project Demo video link*  -
 
