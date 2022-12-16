@@ -135,6 +135,7 @@ This is a web based application developed for Fintech related telugu based websi
 
 
 
+![Screenshot (40)](https://user-images.githubusercontent.com/120080193/208040638-fa4ace25-fa3f-41b3-92fc-19ea50159e4b.png)
 
 
 
