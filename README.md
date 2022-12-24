@@ -7,7 +7,7 @@ This is a web based application developed for Fintech related based website in i
 
 *Project Link* -  https://ashy-forest-0dcf92b00.2.azurestaticapps.net
 
-*Project Demo video link*  -
+*Project Demo video link*  -  https://youtu.be/tR53kX36FV4
 
 
 ## Features and Functionalities 😃
